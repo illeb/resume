@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1636570223 "/Users/stefanobelli/Stuff/workflow/resume/newRepo/EN/resume.tex" "/Users/stefanobelli/Stuff/workflow/resume/newRepo/EN/resume.pdf" "resume" 1636570225
+["pdflatex"] 1636575462 "/Users/stefanobelli/Stuff/workflow/resume/IT/resume.tex" "/Users/stefanobelli/Stuff/workflow/resume/IT/resume.pdf" "resume" 1636575463
   "../resume.cls" 1636567123 4800 7d0890dd8b770ce0426136049ebec6c1 ""
-  "/Users/stefanobelli/Stuff/workflow/resume/newRepo/EN/resume.aux" 1636570224 686 e6bf9f11827e1eae1d85e75b99e0a183 ""
-  "/Users/stefanobelli/Stuff/workflow/resume/newRepo/EN/resume.tex" 1636570223 3660 e2671da94ed1b22c6b3699e115d71032 ""
+  "/Users/stefanobelli/Stuff/workflow/resume/IT/resume.aux" 1636575463 686 e6bf9f11827e1eae1d85e75b99e0a183 ""
+  "/Users/stefanobelli/Stuff/workflow/resume/IT/resume.tex" 1636575247 3733 c155b3e09b2fe999d39d458736a5fc4a ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1585083055 2911 7adff171bd8c0a41152be2ab1520c87f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc" 1585083055 2596 dffa4135cb10401177ac888ce3d96b89 ""
@@ -101,13 +101,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636404518 2724742 3ac23ff6bcd2a14262dd010e6617c99a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "resume.aux" 1636570224 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "resume.out" 1636570224 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1636570223 3660 e2671da94ed1b22c6b3699e115d71032 ""
+  "resume.aux" 1636575463 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
+  "resume.out" 1636575462 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1636575247 3733 c155b3e09b2fe999d39d458736a5fc4a ""
   (generated)
-  "resume.pdf"
-  "/Users/stefanobelli/Stuff/workflow/resume/newRepo/EN/resume.pdf"
-  "resume.aux"
-  "/Users/stefanobelli/Stuff/workflow/resume/newRepo/EN/resume.log"
-  "resume.out"
+  "/Users/stefanobelli/Stuff/workflow/resume/IT/resume.pdf"
   "resume.log"
+  "/Users/stefanobelli/Stuff/workflow/resume/IT/resume.log"
+  "resume.out"
+  "resume.aux"
+  "resume.pdf"

@@ -1,0 +1,88 @@
+\documentclass{../resume} % Use the custom resume.cls style
+
+\usepackage[left=0.40in,top=0.3in,right=0.75in,bottom=0.1in]{geometry} % Document margins
+\usepackage{fontawesome5}
+\usepackage{times}
+\usepackage[hidelinks]{hyperref}
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{S\lowercase{tefano} B\lowercase{elli}} % Your name 
+
+
+\address{\href{https://github.com/illeb}{\faGithub*{ illeb}} | \href{https://www.linkedin.com/in/stefano-belli/}{\faLinkedinIn{ Stefano Belli}} | \href{https://stackoverflow.com/users/1306679/illeb}{\faStackOverflow{ illeb }}}
+\address{\faMapMarker*[regular]{ Borghi (FC), Italy} | \href{mailto://stefano.belli.dev@gmail.com}{\faEnvelope[regular]{ stefano.belli.dev@gmail.com}} | \faMobile*{ (+39) 331 5862768}}
+
+\begin{document}
+
+
+\begin{rSection}{Skills}
+
+  \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+  Linguaggi: \ & Javascript, Typescript, C\#, HTML-CSS, Java, Python, SQL \\
+  Frameworks \& Librerie : \ & Angular, ReactJs, AngularJS, NodeJs, ExpressJs, ASP.NET Core, \\
+  Processi: \ & Agile, Scrum\\
+  Strumenti: \ & Redux, RxJS, JsPlumb, GRPC, Webpack, Rollup.js, LESS, SASS, Azure, \\ \ & Jenkins, Jira\\
+  \end{tabular}
+\end{rSection}
+
+
+\begin{rSection}{Esperienza Lavorativa}
+
+  {\bf Radicalbit} \hfill {\bf Remoto}
+  \\{\textit{Frontend Engineer}} \hfill {\em Maggio 2021 - presente}
+  \begin{itemize}
+    \item Sviluppo di una web app di Continuous Intelligence con architettura
+    microfrontend (single-spa) in \\ ReactJs+Redux (saga).
+    \item Design e sviluppo di numerosi componenti riutilizzabili (in ReactJs) per il design system aziendale.
+    \item Creazione di librerie Sdk per comunicazioni GRPC sui microservizi aziendali.
+  \end{itemize}
+  {\bf Dynaset} \hfill  {\bf San Marino}
+  \\{\textit{Lead Frontend Engineer}} \hfill {\em  Marzo 2015 - Maggio 2021}
+  \begin{itemize}
+    \item Migrazione del core-business aziendale da angularJs a Angular11.
+    \item Sviluppo e management di 
+    \href{https://evohrplite.app/}{evohrp.lite}, un'applicazione PWA scritta in Angular11+ con UI Material.
+    \item Creazione di CI/CD pipelines in Azure DevOps per la razionalizzazione del deployment e testing dei prodotti.
+  \end{itemize}
+  {\textit{FullStack developer}}
+  \begin{itemize}
+    \item Sviluppo di interfacce frontend con AngularJs e Webpack 3+ come bundler.
+    \item Creazione di API Backend con .NET Web Api 2 e Microsoft SQL Server.
+  \end{itemize}
+  
+\end{rSection}
+
+\begin{rSection}{Istruzione}
+
+{\bf Università di Bologna, Italia } \hfill {\em 2015 - 2019} 
+\\{ \textit {Laurea Magistrale in Ingegneria e Scienze Informatiche, 104/110 }} 
+
+{\bf Università di Bologna, Italia } \hfill {\em 2012 - 2015} 
+\\ { \textit {Laurea Triennale in Ingegneria e Scienze Informatiche, 98/110 }} \hfill
+
+
+\end{rSection}
+
+
+\begin{rSection}{Progetti}
+
+{\bf \href{https://imagej.net/plugins/ds4h-image-alignment}{DS4H Image Alignment}}
+\\ Plugin ImageJ specializzato nella co-registrazione di immagini istologiche bidimensionali.\\
+Utilizzato presso l'istituto IRST di Meldola (FC). Sviluppato in Java.
+
+{\bf \href{https://github.com/illeb/id3king}{Id3King}}
+\\ Web app che raccoglie e elabora dati sui percorsi di trekking come difficoltà, lunghezza e altitudine comulata.\\
+Sviluppato in Angular e NodeJs.
+
+\end{rSection}
+
+
+\begin{rSection}{Interessi}
+
+  Il tempo libero è impiegato a far funzionare qualcosa tra Arduino e Home Assistant, con scarsi risultati.\\ Appassionato di micologia, trekking e le solite cose da nerd (d\&d, w40k e tastiere meccaniche).
+\end{rSection}
+\end{document}

@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  10 NOV 2021 19:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  10 NOV 2021 21:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/resume.tex
-(/Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/resume.tex
+**/Users/stefanobelli/Stuff/workflow/resume/EN/resume.tex
+(/Users/stefanobelli/Stuff/workflow/resume/EN/resume.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> (/Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/../resume.cls
+L3 programming layer <2021-02-18> (/Users/stefanobelli/Stuff/workflow/resume/EN/../resume.cls
 
 LaTeX Warning: You have requested document class `../resume',
                but the document class provides `resume'.
@@ -198,7 +198,7 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 10.40245pt on input line 112.
-) (/Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/resume.aux)
+) (/Users/stefanobelli/Stuff/workflow/resume/EN/resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -267,7 +267,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
 LaTeX Info: Redefining \nameref on input line 19.
- (/Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/resume.out) (/Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/resume.out)
+ (/Users/stefanobelli/Stuff/workflow/resume/EN/resume.out) (/Users/stefanobelli/Stuff/workflow/resume/EN/resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
@@ -316,20 +316,20 @@ LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 10.40245pt on input line 38.
  [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/resume.aux)
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/stefanobelli/Stuff/workflow/resume/EN/resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  11269 strings out of 478994
- 189699 string characters out of 5858184
+ 189571 string characters out of 5858184
  473450 words of memory out of 5000000
  28627 multiletter control sequences out of 15000+600000
  420993 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,6n,88p,631b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,6n,88p,623b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /Users/stefanobelli/Stuff/workflow/resume/newRepo/IT/resume.pdf (1 page, 83758 bytes).
+Output written on /Users/stefanobelli/Stuff/workflow/resume/EN/resume.pdf (1 page, 83580 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
