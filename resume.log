@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  10 NOV 2021 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  10 NOV 2021 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -315,12 +315,7 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 10.40245pt on input line 54.
-
-Overfull \hbox (9.5995pt too wide) in paragraph at lines 54--56
-[]\T1/phv/m/n/10.95 Developed a Con-tin-u-ous In-tel-li-gence app built in a mi-crofron-tend ar-chi-tec-ture (single-spa) with Re-ac-tJs+Redux
- []
-
-[1
+ [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/stefanobelli/Stuff/workflow/resume/resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
@@ -335,10 +330,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  83i,6n,88p,620b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /Users/stefanobelli/Stuff/workflow/resume/resume.pdf (1 page, 83971 bytes).
+Output written on /Users/stefanobelli/Stuff/workflow/resume/resume.pdf (1 page, 83770 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
